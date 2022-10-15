@@ -1,0 +1,12 @@
+{
+  "channel": "#2-dev",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "(text goes here)"
+      }
+    }
+  ]
+}
